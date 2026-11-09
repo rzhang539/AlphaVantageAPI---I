@@ -1,0 +1,6 @@
+weeklyprice.db
+.env
+__pycache__/
+
+NVDA_raw.json
+qqq_raw.json
